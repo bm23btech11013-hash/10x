@@ -1,3 +1,6 @@
+i suggest you to use notebook for testing.
+in that change DOC_DIR to the path of data folder.
+then run all cells in colab.
 
 
 ##  Overview  
