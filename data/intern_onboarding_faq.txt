@@ -1,0 +1,131 @@
+NebulaGears — Intern Onboarding FAQ
+Document: intern_onboarding_faq.txt
+Version: 2024.0
+Effective Date: 2024-06-01
+Author: People & Culture & Early Careers Program
+
+Welcome Message:
+Welcome to NebulaGears! We’re excited to have you join our team. This FAQ is designed specifically for interns and entry-level participants to answer common onboarding questions and set clear expectations for your time with us.
+
+Core Policy — Office Presence:
+"Welcome to the team! Please note that while full-time employees have hybrid options, interns are required to be in the office 5 days a week for the duration of their internship to maximize mentorship. No remote work is permitted for interns."
+
+Why this policy exists:
+- Mentorship: Internships are learning-first experiences. In-person presence helps with shadowing, pairing, and immediate feedback.
+- Collaboration & Socialization: Interns benefit from informal interactions, impromptu brainstorms, and activities that are easier in-person.
+- Access to Equipment & Onsite Resources: Some intern projects require access to specialized equipment, lab space, or secured systems available on-premises.
+
+Scope & Applicability:
+- This policy applies to all interns unless there is a separate signed internship contract or role-specific addendum that explicitly states different terms for a given internship
+- Contractors brought on as interns or co-op placements are also expected to follow this policy unless the contract specifically provides remote work terms
+
+Onboarding Timeline & Key Activities (90-Day Example):
+- Week 0 / Pre-start:
+  - Complete background checks / onboarding forms
+  - Receive access credentials, laptop (if applicable), and calendar invites for orientation sessions
+- Week 1 (Orientation):
+  - Day 1: HR orientation, security briefing, People & Culture introduction
+  - Day 2: Team orientation, meet your manager and mentor, overview of top-priority projects
+  - Day 3-5: Hands-on pairing sessions, training modules, baseline deliverables
+- Week 2-4 (Training & First Tasks):
+  - Project onboarding, shadowing, pair programming, daily stand-ups
+  - Beginning of low-risk project contributions
+- Month 2 (Deliverables & Growth):
+  - Independent tasks with regular check-ins; start taking ownership of sub-components
+  - Mentorship sessions and feedback loops
+- Month 3 (Wrap-up & Evaluation):
+  - Final deliverables, demo day, knowledge transfer; final 90-day review
+
+Daily Expectations & Schedule:
+- Expected daily hours are aligned with your role and local labor law; your manager will set a schedule during onboarding.
+- Core hours (for most teams): 10:00 - 16:00 local time; attendance or core availability during these hours is expected to ensure collaboration with your team and mentor.
+- Daily check-ins: Attend the team stand-up each day and provide brief updates on progress and blockers.
+
+Mentorship & Feedback:
+- Each intern will be assigned a primary mentor (usually a Senior IC or staff-level member) and a manager who will help prioritize and review work.
+- Weekly 1:1s with your manager and weekly mentor check-ins are mandatory and should focus on learning goals and performance feedback.
+- Mid-Intern Review: At approximately 45 days, you’ll receive mid-intern feedback to calibrate expectations and identify growth areas.
+
+Project Types & Evaluation:
+- Interns commonly work on onboarding-friendly projects such as:
+  - Documentation improvements and onboarding tooling
+  - Bug fixes and minor feature work under mentorship
+  - Research or exploratory features with defined, limited scope
+- Evaluation Criteria: Quality of deliverables, communication, learning speed, collaboration, and initiative
+
+Security & Onsite Access:
+- Because interns are onsite five days a week, you’ll be granted the appropriate onsite access to internal systems and lab spaces for the project.
+- Follow the Security Playbook. Device encryption, MFA, and secure handling of sensitive data are required at all times.
+
+Exceptions & Special Circumstances:
+- Medical or Compelling Personal Circumstances: If you have a medical need or other compelling personal situation requiring periodic remote work, notify People & Culture and your manager. People & Culture will evaluate reasonable accommodations on a case-by-case basis.
+- Temporary Approvals: Managers may approve temporary remote working for short windows (e.g., travel or emergencies) with People & Culture consent; these are exceptions and not the default.
+- Role-based Exceptions: Some specific intern programs (e.g., internationally distributed research interns where a satellite office exists) may be approved via contract. Approved role-specific exceptions must be included in the intern offer or a signed addendum.
+
+Time Off, PTO & Sick Days for Interns:
+- Interns accrue PTO according to the local policy and should request time off through the HR portal.
+- For short-term illness or emergency, contact your manager as soon as possible and mark your time off in the usual systems; emergency leaves will be handled with compassion and flexibility.
+
+Compensation, Benefits & Stipends:
+- Most NebulaGears internships are paid and include:
+  - Competitive hourly pay or stipend based on geography and intern level
+  - A one-time onboarding stipend for equipment if required
+  - Access to company events and some team-specific benefits while with the company
+- Interns are not necessarily eligible for full employee benefits (e.g., health insurance) unless specified in their offer letter or country-specific laws require it.
+
+Code & Project Access:
+- Interns will be granted limited access to code repositories and issue trackers based on the principle of least privilege and the scope of the project.
+- All code and documentation created as part of the internship are company property per the standard employment (or internship) agreement.
+
+Frequently Asked Questions (FAQ):
+- Q: Do interns get to work remotely at all during the internship?
+  A: No — interns are required to be in the office five days a week, unless a specific role-based exception is specified in an offer letter or documented by People & Culture.
+- Q: What if I have to attend classes, school exams, or university interviews?
+  A: Notify your manager and People & Culture in advance. Typically, short absences for exams or school-related commitments may be accommodated if requested in advance and coordinated with the team.
+- Q: Can I be eligible for conversion to a full-time role while still interning?
+  A: Many interns convert to full-time roles if they perform well; hiring managers will evaluate conversion opportunities and make recommendations in alignment with People & Culture processes.
+- Q: Can I come in late or leave early occasionally?
+  A: Managers are expected to be flexible for legitimate reasons; however, regular attendance during core hours is required to ensure mentorship, training, and participation in team activities.
+
+Onboarding Checklist (Summary):
+- HR paperwork and background checks completed before Day 1
+- Device and access credentials issued on Day 1 (or earlier)
+- Mentor assigned and 1:1 recurring invitations set
+- Training modules completed: Security, Code of Conduct, Tooling, Hygiene
+- First small deliverable assigned within the first two weeks
+
+Reporting & Escalation:
+- If an intern has concerns about work environment, harassment, or discrimination, contact People & Culture directly. There is an anonymous reporting channel for sensitive issues.
+- If an intern requires help with their project, they should first ask their mentor, then manager, and then contact People & Culture if unresolved.
+
+Cross-Reference & Conflict Note:
+- This document intentionally specifies intern-only in-office requirements and should be considered the authoritative source for intern policies.
+- If you encounter conflicting guidance in `employee_handbook_v1.txt` or `manager_updates_2024.txt`, refer to this intern-specific FAQ for intern expectations. In case of further ambiguity, People & Culture’s written guidance or signed contract terms take precedence.
+
+Contacts & Support Resources:
+- People & Culture: people@nebulagears.example
+- Intern Program Manager: interns@nebulagears.example
+- IT Support: it-support@nebulagears.example
+- Security Incident Response: security@nebulagears.example
+
+Appendix A: Intern Offer Addendum (Sample)
+- Offer Date:
+- Intern Name & Role:
+- Duration (Start/End dates):
+- Office Location: (Primary) — Required
+- Remote Work: Not permitted unless extenuating circumstances approved in writing by People & Culture
+- Special Accommodations: (if any) — to be included here and signed off by People & Culture
+
+Appendix B: Sample Intern Schedule (Typical Week)
+- Mon: 09:30 — 17:30 — Project pairing, mentorship check-in, training
+- Tue: 09:30 — 17:30 — Team meetings, syncs, cross-functional collaboration
+- Wed: 09:30 — 17:30 — Focused development work, mentor pairing
+- Thu: 09:30 — 17:30 — Team demos, stakeholder reviews
+- Fri: 09:30 — 17:30 — Wrap-ups, learning sessions, community activities
+
+Document Ownership & Review:
+- Owner: People & Culture and Intern Program Office
+- Review Cadence: Quarterly or as needed with changes to company policy
+- Revision History: v2024.0 initial release — 2024-06-01
+
+-- End of Intern Onboarding FAQ (v2024.0) --

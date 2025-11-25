@@ -1,0 +1,198 @@
+NebulaGears — Employee Handbook (v1)
+Document: employee_handbook_v1.txt
+Version: 1.0
+Effective Date: 2024-01-15
+Author: People & Culture
+
+Overview:
+NebulaGears believes in empowering employees with trust, flexibility, and independence. We aim to create a high-performance culture where outcomes are valued over seat time. As part of this vision, we have adopted an open remote-work stance for the company.
+
+Work From Anywhere Program — Summary:
+"At NebulaGears, we believe in complete freedom. All employees are eligible for the 'Work From Anywhere' program. You can work remotely 100% of the time from any location. No prior approval is needed."
+
+Purpose:
+- To enable high-performing employees to work in environments where they are most productive.
+- To attract diverse talent across geographies.
+- To reduce commuting burden and promote work-life balance.
+
+Eligibility:
+- All full-time and part-time NebulaGears employees are eligible for the Work From Anywhere program from day one of employment.
+- Contractors and consultants assigned to NebulaGears are eligible on a case-by-case basis; please coordinate with your vendor manager.
+- Locations must remain in compliance with local labor and tax regulations; persons planning to work from a different country should notify People & Culture for payroll/tax guidance (notification is not an approval gate for remote work unless otherwise required by local law).
+
+Key Principles:
+- Trust & Autonomy: We trust employees to manage their time and deliverables. Managers focus on outcomes, not hours.
+- Communication: Team-level alignment is required; employees are responsible for communicating their schedules to teammates and attending agreed-upon collaboration times.
+- Security & Compliance: Company security policies (device encryption, use of VPN for protected resources, MFA, etc.) remain in effect regardless of location.
+
+Expectations & Best Practices:
+- Availability: While employees can plan their remote days freely, they must attend mandatory team meetings and be responsive during designated core hours. Each team should establish core collaboration hours for overlap.
+- Equipment: NebulaGears provides a basic equipment stipend for eligible roles. Employees are responsible for reliable internet connectivity and a professional workspace.
+- Timezones: Employees should work with their manager to set regular check-ins; when working across timezones, teams should agree on overlapping hours for collaboration.
+- Performance: Productivity expectations remain unchanged; employees must meet deliverables and performance metrics laid out by their manager.
+
+Manager and Team Responsibilities:
+- Managers should set clear expectations, goals, and success metrics tailored to remote-friendly workflows.
+- Teams are encouraged to schedule regular check-ins, async updates, and preserve synchronous time for collaboration.
+- Managers should monitor employee engagement and work to create an inclusive environment that supports remote employees.
+
+Security Policies:
+- Devices with access to NebulaGears systems must have company-approved endpoint protection and OS updates enabled.
+- Confidential information must be handled with the same care and encryption standards as in-office work.
+- Any breach, loss of device, or suspicious security incident must be reported immediately to Security and the employee's manager.
+
+Travel and In-office Requirements:
+- There are no routine mandatory office-day requirements under this version of the handbook.
+- Teams may request or schedule in-office sessions for activities such as onboarding, all-hands, and team offsites; these are not mandatory unless explicitly stated for a given event.
+
+Special Circumstances & Exceptions:
+- Business-critical days: Some business needs (product launch days, critical client engagements, or scheduled on-site training) may require presence in the office. The company will aim to give advance notice.
+- Insurance, visas, and tax considerations may require HR or People & Culture to coordinate with employees working outside their home country.
+
+Onboarding & Mentorship:
+- Onboarding program content and mentorship opportunities are available both virtually and in-person.
+- Teams are encouraged to design hybrid onboarding options, but the company remains flexible in how mentorship is delivered.
+
+Glossary & Definitions:
+- "Remote Work": Any work done away from a NebulaGears office location.
+- "Work From Anywhere": Program allowing employees to work from any geographical location subject to local law compliance and tax considerations.
+
+Contact and Questions:
+- For any questions about Work From Anywhere policy, device stipends, payroll, or taxes, contact People & Culture at people@nebulagears.example.
+
+Note on Revisions:
+- This is an early iteration of the handbook and subject to revisions. Future updates may introduce role-specific exceptions, manager approvals, or capped remote days as we grow and learn more about operational needs.
+
+---
+
+Last reviewed: 2024-01-15
+Change history: v1.0 initial release
+
+---
+
+Detailed Policies & Procedures:
+
+1) Work From Anywhere — Long-Form Details:
+- Remote Work Options: Employees can work fully remote, hybrid, or from office; the program is intentionally flexible to support multiple workstyles.
+- Notification Expectations: While prior approval isn't required, employees should notify their manager of any transitions to a different timezone, and provide a short note in team calendars when taking extended remote trips (> 2 weeks) for team planning.
+- Cross-border Remote Work: Working from a different country for longer than 90 days requires coordination with People & Culture for payroll and tax reasons. It is the employee's responsibility to confirm eligibility with People & Culture before making longer-term cross-border plans.
+
+2) Remote Work Performance Management:
+- Goals & KPIs: Managers are expected to set measurable goals and check-ins with the employee at onboarding and during performance reviews.
+- One-on-ones: Weekly or bi-weekly one-on-ones are recommended for remote employees to ensure alignment and engagement.
+
+3) Intern-specific Onboarding Considerations (General guidance only):
+- Onboarding Schedule: Interns should receive a detailed 90-day onboarding plan with expected milestones, learning goals, and regular mentor check-ins.
+- Training & Shadowing: Interns are encouraged to schedule overlapping hours with senior engineers and be part of pairing sessions; the company provides a mentorship guideline for managers.
+
+4) Equipment, Stipend & Workspace:
+- Stipend Eligibility: Full time employees receive a one-time equipment stipend (amount varies by role) and a monthly remote-work allowance for internet of up to $75/month where applicable.
+- Equipment Procurement: To request company devices, fill out the Device Request Form in the People & Culture portal. Equipment remains company property.
+- Ergonomics & Health: NebulaGears encourages employees to maintain an ergonomic workspace. We provide a stipend for ergonomic accessories on request (provided via the Device Request Form).
+
+5) Security & Data Privacy (Expanded):
+- Access Controls: Remote employees must access NebulaGears resources using the approved VPN and MFA. Access to sensitive PI and legal documents is role-restricted.
+- Data Retention & Handling: Employees should follow the Data Handling procedures documented in the Security Playbook. Do not store confidential documents on personal devices or public cloud storage without company approval.
+- Device Management: The IT/Device Management team will periodically audit devices with company access; employees are expected to comply with remote device security checks.
+
+6) Legal & Tax Compliance (Expanded):
+- Local Law Compliance: Employees working in another jurisdiction may trigger tax/benefit obligations. People & Culture will provide guidance, but legal compliance is ultimately the employee's responsibility to confirm for long-term international work.
+- Visa & Employment Eligibility: NebulaGears does not manage immigration or visa status for remote work abroad. Employees must ensure their working status is compliant with local laws.
+
+7) PTO, Sick Leave & Time Off:
+- Paid Time Off (PTO): Exempt FT employees accrue PTO starting from hire date. Refer to the People & Culture portal for accrual schedules and conversion rules.
+- Sick Leave: Employees may use sick leave as per the local policy or law. Submit sick leave requests using the HR portal; for extended medical leaves, coordinate with People & Culture for documentation.
+- Holidays: NebulaGears recognizes a set of company-wide holidays and allows local/global teams to decide on additional local holidays on a per-country basis.
+
+8) Compensation & Benefits (High-level):
+- Payroll: Employees will be paid through the company payroll system on the standard date for the assigned payroll cycle. Cross-border pay may take longer to set up.
+- Benefits: Health insurance, retirement savings, and other benefits are provided according to employee grade and geography. Refer to the benefits guide in the People & Culture portal for details.
+
+9) Performance Reviews & Promotions:
+- Review Cadence: Performance reviews should be held at least annually; mid-year calibration is encouraged, especially for high-growth teams.
+- Promotion Requirements: Promotions are based on demonstrated impact, role competency, and managerial recommendations according to the Lattice/Performance framework used by the company.
+
+10) Diversity, Equity & Inclusion (DEI) & Anti-Harassment:
+- Zero Tolerance: Harassment, discrimination, or harmful conduct will not be tolerated. NebulaGears has a formal process for filing complaints, including anonymous reporting to the Ethics line.
+- Inclusive Behavior: Employees are expected to create a respectful environment. Training is available on unconscious bias, inclusive leadership, and harassment prevention.
+
+11) Business & Client Interaction Guidelines:
+- Professional Conduct: When representing NebulaGears with clients or external partners, maintain professional communication and follow the external communications policy.
+- Record Keeping: Client meeting notes and summaries should be stored in the company's secure workspace and referenced in the CRM as required.
+
+12) Travel Policy & Expense Reimbursement:
+- Travel Approval: Manager approval is required for client travel, conferences, and on-site work. For higher cost travel, finance approval may be required.
+- Reimbursement Process: Submit expenses using the Expense Reimbursement Form with itemized receipts within 30 days for personal reimbursement.
+
+13) Safety, Health & Emergency Guidelines:
+- Emergency Contact: Keep emergency contacts up to date in the People & Culture portal. In case of any emergency while remote, follow local emergency services and then notify manager & People & Culture.
+- Health Guidelines: NebulaGears supports flexible health policies including remote work when medically advised and will provide accommodation as needed.
+
+14) Exit & Offboarding Procedures:
+- Notice Period: Employees should provide notice as outlined in their employment agreement. Offboarding includes returning company equipment, revoking system access, and conducting an exit interview.
+- Knowledge Transfer: The departing employee should document current work, status, and handover notes for the team to continue work smoothly.
+
+15) Intellectual Property & Confidentiality:
+- IP Ownership: Work-related intellectual property created during employment belongs to NebulaGears unless explicitly stated; contractors may have different IP terms.
+- Confidentiality: Employees must not disclose confidential business information; NDAs and confidentiality clauses as part of employment agreements apply even after termination.
+
+16) Reporting & Escalation Paths:
+- Reporting Issues: For HR issues, contact People & Culture. For security incidents, contact Security immediately. For ethics issues, use the anonymous ethics reporting line.
+
+Frequently Asked Questions (FAQ):
+- Q: Can I work from a different country for several months at a time?
+	A: Short-term travel (< 90 days) is supported in most cases but notify People & Culture. Longer-term cross-border work requires tax & payroll coordination.
+- Q: Do I need manager approval to take remote days?
+	A: No — the Work From Anywhere program does not require prior approval for remote days, but managers should be informed of extended travel or timezone changes impacting team collaboration.
+- Q: Are there specific days I'm required to be in the office?
+	A: Not under this version of the handbook, but teams may schedule in-office events for which attendance might be requested for specific reasons.
+- Q: What about interns and working from home?
+	A: This handbook version does not require interns to be in the office 5 days a week; those details may be outlined in role-specific onboarding guidelines. Teams should confirm expectations with People & Culture.
+
+Appendices & Templates:
+
+Appendix A: Sample Device Request Form (Template)
+- Employee Name:
+- Role & Team:
+- Device Required (Laptop/Monitor/etc.):
+- Justification & Project Use:
+- Manager Approval (Name/Signature):
+
+Appendix B: Remote Work Agreement (Short Form)
+- Agreement Date:
+- Employee Name & Role:
+- Work Location(s):
+- Working Hours & Core Time Agreement:
+- Equipment Provided & Stipend:
+- Tax & Payroll Acknowledgement:
+- Employee Signature:
+
+Appendix C: 90-Day Onboarding Checklist (Sample)
+- Week 1: Setup devices, account access, onboarding overview, meet the team, initial training sessions
+- Week 2-4: Pairing sessions, project onboarding, first deliverables, assignment of mentor
+- Month 2: Goal setting with manager, extended product immersion, begin independent work
+- Month 3: 90-day review with manager and mentor, training plan for the remainder of the internship
+
+Appendix D: Manager's Guide for Remote Teams
+- Building async-first processes: docs and recorded meetings
+- Scheduling core collaboration windows across timezones
+- Running inclusive meetings with a distributed team
+
+Appendix E: Frequently Used Contacts
+- People & Culture: people@nebulagears.example
+- IT Support: it-support@nebulagears.example
+- Security Incident Response: security@nebulagears.example
+- Finance & Reimbursements: finance@nebulagears.example
+
+Glossary (Extended):
+- Core Hours: The hours during the day when most team members are expected to be available for synchronous collaboration.
+- PTO: Paid Time Off
+- VPN: Virtual Private Network
+
+Change Log & Document Ownership:
+- Document Owner: People & Culture
+- Next Review Date: 2024-06-01
+- Revision History: v1.0 (2024-01-15) — initial release; more frequent updates expected as the company scales
+
+-- End of Handbook (v1.0) --
+

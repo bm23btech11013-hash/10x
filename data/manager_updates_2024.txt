@@ -1,0 +1,70 @@
+NebulaGears — Manager Updates — 2024
+Document: manager_updates_2024.txt
+Version: 2024.1
+Effective Date: 2024-06-01
+Author: Office of the COO & People Leadership
+
+Summary:
+This update modifies the company's remote-work guidance to improve team collaboration and operational alignment.
+
+Official Update (Effective immediately):
+"Update to remote work policy: Effective immediately, remote work is capped at 3 days per week. Employees must be in the HQ office on Tuesdays and Thursdays. All remote days require manager approval."
+
+Purpose & Rationale:
+- Collaboration & Team Health: The company has grown rapidly and in-person collaboration on certain days will increase cross-functional alignment and reduce context-switching overhead.
+- Predictability: Requiring team presence on specific days (Tuesdays and Thursdays) will make scheduling and resource planning more predictable across offices.
+- Manager Oversight: All remote days must be scheduled and approved by managers so teams can maintain adequate synchronous coverage.
+
+Scope & Applicability:
+- This update applies to NebulaGears employees across all teams and levels, including contractors when explicitly contracted for remote flexibility.
+- This policy is intended to co-exist with existing policies; in cases of documented conflict, the more recent policy (this update) takes precedence unless otherwise stated by People & Culture.
+
+Manager Instructions (Implementation Guidance):
+1) Tracking & Approval:
+   - Managers must track the number of remote days per employee and ensure the 3-day-per-week cap is honored.
+   - Teams should use the Remote-Day Calendar and the Team Roster Tracker in the People & Culture portal to record approved remote days.
+2) Scheduling:
+   - The standard in-office days are Tuesdays and Thursdays; all teams should try to hold critical meetings on those days when feasible.
+   - Exceptions may be approved in writing by the manager or People & Culture for business-critical or personal circumstances.
+3) Exceptions & Overrides:
+   - For project-critical events, client engagements, or other exceptional needs, managers may temporarily waive the 3-day limit at their discretion.
+   - If a department or role requires different onsite coverage (e.g., data center roles or lab technicians), managers should coordinate with People & Culture for role-based exceptions.
+4) Discipline & Escalation:
+   - Repeated and unexplained non-compliance may be escalated through standard performance and HR channels.
+   - Managers should address conflicts and document discussions as part of performance coaching when patterns emerge.
+
+Operational Details:
+- Temporary Travel & Locale Changes: For extended time working in a different timezone or country, employees must notify People & Culture and receive written confirmation for tax and payroll considerations.
+- Interns & Entry-Level Roles: Unless otherwise specified in a role-specific policy or documentation (such as `intern_onboarding_faq.txt`), the above requirements apply to all employees. (Note: This means that, without a separate intern-specific policy telling otherwise, interns will fall under this update.)
+
+Communication & FAQs for Managers:
+- Q: Does this update replace the employee handbook's prior "Work From Anywhere" statement?
+  A: For the policies listed here, yes — this update clarifies and limits the open-ended "Work From Anywhere" guidance from `employee_handbook_v1.txt` as it relates to weekly remote day caps and required in-office days. However, where role-specific policies exist (e.g., documented intern rules or contractual terms), those role-specific documents must be consulted.
+- Q: Can teams change the in-office days to other days?
+  A: The default company-wide days are Tuesday and Thursday because they allow Monday and Friday for focused deep work or asynchronous collaboration; teams may propose alternate days with coordination and manager approval.
+- Q: How do managers track remote day counts?
+  A: Managers should use the Team Roster Tracker in the People & Culture portal and keep a shared calendar for team planning.
+
+Manager Checklist for Implementation (Sample):
+- Publish team-specific guidance on the team wiki outlining core hours and how you'll use Tuesdays and Thursdays.
+- Update recurring meeting cadence to maximize in-office team presence on Tuesdays and Thursdays.
+- Discuss and document any role-based exceptions with People & Culture (e.g., facilities, on-premises staff, contractor exceptions).
+- Encourage managers to proactively communicate this update to team members and regarding tracking/approval workflows.
+
+Impact on Contractors & Vendors:
+- Contractors and vendors should follow the terms of their contracts with NebulaGears regarding remote and on-site work. If the contract allows remote flexibility, coordinate with vendor managers for local application of this policy.
+
+Legal & Compliance Note:
+- Legal & tax obligations for cross-border work remain unchanged and require coordination with People & Culture; manager approvals do not replace tax, payroll, or immigration compliance.
+
+References & Cross-Links:
+- Primary Employee Handbook: `employee_handbook_v1.txt` (v1.0 — 2024-01-15)
+- Intern Onboarding & Role-Specific Guidance: `intern_onboarding_faq.txt`
+- Team Roster Tracker and Remote-Day Calendar: People & Culture portal (internal)
+
+Change Log & Document Ownership:
+- Owner: Office of the COO & People & Culture
+- Effective Date: 2024-06-01
+- Revision History: v2024.1 initial update — 2024-06-01
+
+-- End of Manager Update — 2024.1 --
